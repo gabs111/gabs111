@@ -8,7 +8,7 @@
    <ul>
     <li>Sou do <strong>Guaruja/SP</strong> 🏖️
       <li><strong>Desenvolvedor Front End e Deigner</strong> | <a href="https://www.behance.net/gabrielsilva398">Behance</a></li>   
-      <li>Formado em <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.alura.com.br/escola-programacao">Alura</a>
+      <li>Cursando <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.alura.com.br/escola-programacao">Alura</a>
    </ul>
    <p>Clique 
       <a href=""           target="_blank">
