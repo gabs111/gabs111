@@ -2,7 +2,7 @@
 
 <div>
   <h1 align="center">Olá! Tudo bem? 😃️</h1>
-  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Eduardo Ribeiro</i></a> e eu estudo Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>. 😃️
-  <p align="center"> Sou apaixonado por tecnologia e gosto de compartilhar meu aprendizado no meu canal no <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1"><i>YouTube</i></a><span> 👉🏽️</span>
+  <h2 align="center">Meu nome é <a href="https://www.linkedin.com/in/gabriel-santos-ss/"><i>Gabriel Santos</i></a> e eu estudo Design e Programacao front end na <i>Anhanguera</a>. 
+  
 
 
