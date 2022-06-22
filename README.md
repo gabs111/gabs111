@@ -6,7 +6,7 @@
 
 <div>
    <ul>
-    <li>Sou do <strong>Guaruja/AL</strong> 🏖️
+    <li>Sou do <strong>Guaruja/SP</strong> 🏖️
       <li><strong>Desenvolvedor Front End e Deigner</strong> | <a href="https://www.behance.net/gabrielsilva398">Behance</a></li>   
       <li>Formado em <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.alura.com.br/escola-programacao">Alura</a>
    </ul>
@@ -43,6 +43,6 @@
  
  <p align="center"> 
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabs111/gabs111/blob/output/github-contribution-grid-snake.svg)
  </p>
 
